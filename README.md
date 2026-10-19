@@ -1,5 +1,8 @@
 # Jellyseerr Ansible role
 
+> [!WARNING]
+> This project has moved to [MASH](https://github.com/mother-of-all-self-hosting/ansible-role-seerr)
+
 This is an [Ansible](https://www.ansible.com/) role which installs [Jellyseerr](https://jellyseerr.dev/) to run as a [Docker](https://www.docker.com/) container wrapped in a systemd service.
 
 This role _implicitly_ depends on:
